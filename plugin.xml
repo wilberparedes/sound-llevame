@@ -9,6 +9,6 @@
     <!-- android -->
     <platform name="android">
         <!-- Replace Sound1.wav by your own sound -->
-        <resource-file src="src/llevame.mp3" target="res/raw/llevame.mp3" />       
+        <resource-file src="llevame.mp3" target="res/raw/llevame.mp3" />       
     </platform> 
 </plugin>
